@@ -1,7 +1,7 @@
 from ics import Calendar, Event
 import datetime
 
-year = 2022
+year = 2023
 
 cal = Calendar()
 
